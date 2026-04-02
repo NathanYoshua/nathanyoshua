@@ -8,9 +8,6 @@ Software Engineer with 4+ years of experience delivering and leading the develop
 
 ## Professional Experience
 
-### Software Developer | Digital Beehive Ltd
-*June 2025 - Present (1 year)*
-
 - Delivered end-to-end product features across Angular (TypeScript/SCSS) and .NET REST APIs.  
 - Modernised codebases by upgrading projects to the latest LTS versions.  
 - Designed a microservices-oriented platform using Clean Architecture with feature-based organisation and strong separation of concerns.  
@@ -29,8 +26,6 @@ Software Engineer with 4+ years of experience delivering and leading the develop
 - Mentored junior/mid-level developers, providing guidance on coding standards, architecture, and Agile practices.  
 - Delivered the technical segment of the annual company town hall, presenting key initiatives and updates to a broad audience.
 
-### Software Engineer | TotalMobile Ltd
-*May 2023 - June 2025 (2 years)*
 
 - Collaborated closely with stakeholders to refine Agile practices, improving team velocity, cross-functional communication, and overall development efficiency.  
 - Developed new features in a microservices-based system using .NET (C#) for enhanced functionality and maintainability.  
@@ -40,9 +35,6 @@ Software Engineer with 4+ years of experience delivering and leading the develop
 - Developed Power BI reports for actionable insights for stakeholders.  
 - Utilised Azure services for cloud solutions, including DevOps, Pipelines, and Containers.  
 - Advocated for and introduced Behavior-Driven Development (BDD) and Test-Driven Development (TDD) practices.
-
-### Software Engineer | Canon Europe Ltd
-*Jun 2020 - Jun 2021 (1 year)*
 
 - Developed and maintained applications in C# and Java for diverse project requirements.  
 - Collaborated through pair programming within cross-functional teams.  
@@ -55,31 +47,3 @@ Software Engineer with 4+ years of experience delivering and leading the develop
 **Software Engineering | Staffordshire University**  
 *Sep 2018 - Jan 2023*  
 - Achieved First Class Honours
-
----
-
-## Skills
-
-| Skill | Proficiency |
-|-------|------------|
-| C# .NET | ••••• |
-| SQL | ••••• |
-| RESTful APIs | ••••• |
-| DevOps | ••••• |
-| Microservices | ••••• |
-| Angular/TypeScript | ••••• |
-| CI / CD | ••••• |
-| Clean Architecture | ••••• |
-| Docker | ••••• |
-
----
-
-## Practices
-
-| Practice | Proficiency |
-|----------|------------|
-| Agile & Scrum | ••••• |
-| TDD | ••••• |
-| BDD | ••••• |
-| DDD | ••••• |
-| Mentoring | ••••• |
